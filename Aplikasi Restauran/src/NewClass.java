@@ -3,17 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package classes;
 
 /**
  *
  * @author USY SHYFA
  */
-public class Minuman extends Menu {
-
-    public Minuman(String nama_minuman, double harga) {
-        setNama_menu(nama_minuman);
-        setHarga(harga);
-        setKategori("Minuman");
-    }
-}    
+public class NewClass {
+    
+}
