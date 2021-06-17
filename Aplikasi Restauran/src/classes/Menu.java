@@ -5,15 +5,11 @@
  */
 package classes;
 
-/**
- *
- * @author USY SHYFA
- */
 public class Menu {
     private String nama_menu;
     private double harga;
     private String kategori;
-    
+
     public String getNama_menu() {
         return nama_menu;
     }
@@ -38,5 +34,4 @@ public class Menu {
         this.kategori = kategori;
     }
 
-    
 }
